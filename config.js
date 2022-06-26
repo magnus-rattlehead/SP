@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '5',
 			name: 'DOCKER',
 			icon: 'package',
-			link: 'http://192.168.1.253:9000/',
+			link: 'http://192.168.1.245:9000/',
 		},
 		{
 			id: '3',
@@ -112,19 +112,19 @@ const CONFIG = {
 			id: '1',
 			name: 'MB',
 			icon: 'server',
-			link: 'http://192.168.1.253:81',
+			link: 'http://192.168.1.245:81',
 		},
 		{
 			id: '6',
 			name: 'FIN',
 			icon: 'play-circle',
-			link: 'http://192.168.1.253:8096',
+			link: 'http://192.168.1.245:8096',
 		},
 		{
 			id: '2',
 			name: 'DL',
 			icon: 'download',
-			link: 'http://192.168.1.253:9091/transmission/web/',
+			link: 'http://192.168.1.245:9091/transmission/web/',
 		},
 	],
 
